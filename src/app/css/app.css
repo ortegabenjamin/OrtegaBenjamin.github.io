@@ -294,8 +294,8 @@ html, body {
   width: auto !important;
   height: auto !important;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 160%;
+  left: 160%;
   transform: translate(-50%, -50%);
 }
 
